@@ -1,0 +1,8 @@
+terraform {
+  cloud {
+    organization = "ben-12112024"
+    workspaces {
+      name = "ws-apQXEpXnLmbwCaTU"
+    }
+  }
+}
